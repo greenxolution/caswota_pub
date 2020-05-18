@@ -1,4 +1,4 @@
-# WebAdMIT and Salesforce Integration
+# CASWOTA: WebAdMIT and Salesforce Integration
 **100% Native Salesforce app. Make it easier!**
 
 [Free installation at here](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t3i000002ikjJAAQ)
