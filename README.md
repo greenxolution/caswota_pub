@@ -1,8 +1,9 @@
 # WebAdMIT and Salesforce Integration
 **100% Native Salesforce app. Make it easier!**
 
-[CASWOTA INTALLATION](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t3i000002ikjJAAQ)
-Free installation at here. Installation Key: CASWOTA2020
+[Free installation at here](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t3i000002ikjJAAQ)
+
+Installation Key: CASWOTA2020
 
 ## Description
 Focus on applicant satisfaction
