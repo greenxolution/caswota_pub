@@ -85,44 +85,12 @@ Export File Configuration
 
     ![CASWOTA, export file](sources/export_file1.png)
 
-Field
-
-Value
-
-Recommendation
-
-Access
-
-You must select the owner of the API key.
-
-CASWOTA accesses to the export file throught the API key.
-
-File Format
-
-Comma-Separated Values (CSV)
-
-The files with CSV is very light.
-
-Named
-
-any name
-
-We recommend use a name under a conversion to be consistence. For
-example: you can name the file based on included data on it. E.g.
-APPLICANT\_DESIGNATION
-
-Column Heading
-
-with
-
-CASWOTA reads the fields based on the column header.
-
-"Many" fields will output
-
-as many as you need
-
-The designation fields will be repeated for each applicant designation.
-We read all designation.
+Field   | Value |   Recommendation
+Access  | You must select the owner of the API key. |   CASWOTA accesses to the export file throught the API key.
+File Format |   Comma-Separated Values (CSV)    |   The files with CSV is very light.
+Named   |   any name    |   We recommend use a name under a conversion to be consistence. For example: you can name the file based on included data on it. E.g. APPLICANT\_DESIGNATION
+Column Heading  |   with    |   CASWOTA reads the fields based on the column header.
+"Many" fields will output   |   as many as you need |   The designation fields will be repeated for each applicant designation. We read all designation.
 
 Select the Applicant fields
 
