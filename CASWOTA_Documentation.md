@@ -36,18 +36,9 @@ CASWOTA vision
     categories in CAS. CASWOTA allows you to convert these designations
     in Opportunity. Now, adding the Tuition Fees and Close Date.
 
-Salesforce
-
-CAS
-
-CASWOTA
-
-Opportunity Name
-
-Program Name
-
-Applicant Last Name + Program Name\
-It's easy to be identified.
+Salesforce  | CAS   | CASWOTA
+------------|-------|--------
+Opportunity Name | Program Name | Applicant Last Name + Program Name\It's easy to be identified.
 
 Amount
 
