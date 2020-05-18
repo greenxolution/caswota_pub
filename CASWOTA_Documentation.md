@@ -83,7 +83,7 @@ Preparing the Export File
 **Export File Configuration**
 :   The configuration file allows be reading by CASWOTA
 
-    ![CASWOTA, export file](https://github.com/greenxolutions/caswota_pub/blob/master/caswota_config.png)
+    ![CASWOTA, export file](caswota_config.png)
 
 Field   | Value |   Recommendation
 ------------|-------|--------
@@ -95,7 +95,7 @@ Column Heading  |   with    |   CASWOTA reads the fields based on the column hea
 
 Select the Applicant fields
 
-![CASWOTA export file fields](sources/export_file_fields.png)
+![CASWOTA export file fields](export_file_fields.png)
 
  
 
@@ -159,7 +159,7 @@ Installation
 Set Up the API key
 :   The WebAdMIT API key must be copied Config Tab
 
-    ![CASWOTA Configuration - API key](sources/caswota_config.png)
+    ![CASWOTA Configuration - API key](caswota_config.png)
 
 #### Attention! {.alert-heading}
 
@@ -194,7 +194,7 @@ Applicant List
     filter by any criteria. The Import button is activated when you
     select at least an applicant to be imported.
 
-![CASWOTA Applicant list](sources/caswota_applicant_list.png)
+![CASWOTA Applicant list](caswota_applicant_list.png)
 
 filtering export file
 
@@ -226,7 +226,7 @@ Import
         requires the Tuition Fees and Closing Date, these are requested,
         only the first time, in this step.
 
-![CASWOTA Applicant list](sources/caswota_import.png)
+![CASWOTA Applicant list](caswota_import.png)
 
 #### Attention! {.alert-heading}
 
