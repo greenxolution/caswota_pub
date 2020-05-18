@@ -39,29 +39,9 @@ CASWOTA vision
 Salesforce  | CAS   | CASWOTA
 ------------|-------|--------
 Opportunity Name | Program Name | Applicant Last Name + Program Name\It's easy to be identified.
-
-Amount
-
---
-
-Tuition Fees\*\
-This allows to you tracking the revenew and estimate the future cash
-flow.
-
-Close Date
-
-Cycle Timeframes\*
-
-Closing Date\
- As the WebAdMIT API doens't provide the Cycle Timeframes last date, you
-must enter it.
-
-Opportunity Status
-
-Local Status
-
-CAS Application Status\
-Once it's setup in Salesforce. CASWOTA imports it from the CSV file.
+Amount  | --    | Tuition Fees\*\This allows to you tracking the revenew and estimate the future cash flow.
+Close Date  | Cycle Timeframes\*|Closing Date\ As the WebAdMIT API doens't provide the Cycle Timeframes last date, you must enter it.
+Opportunity Status  | Local Status  |   CAS Application Status\Once it's setup in Salesforce. CASWOTA imports it from the CSV file.
 
 #### Attention! {.alert-heading}
 
