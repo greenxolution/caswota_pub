@@ -100,59 +100,24 @@ Select the Applicant fields
  
 
 Applicant required fields
-:   Here is the relation between the CAS and Salesforce fields.
+Here is the relation between the CAS and Salesforce fields.
 
-    CAS Field
-
-    CAS Group
-
-    Salesforce Object and Field
-
-    CAS ID
-
-    Applicant
-
-    Contact.CAS\_ID
-
-    This is a custom field created by CASWOTA
-
-    First Name
-
-    Applicant
-
-    First Name
-
-    Last Name
-
-    Applicant
-
-    Last Name
+CAS Field   | CAS Group |   Salesforce Object and Field
+------------|-------|--------
+CAS ID  |   Applicant   Contact.CAS\_ID. This is a custom field created by CASWOTA
+First Name  |   Applicant   |   First Name
+Last Name   |   Applicant   |   Last Name
 
 Applicant recommended fields
-:   CAS Field
-    CAS Group
-    Salesforce Object and Field
-    Street Address 1
-    Permanent Mailing Address
-    Contact.Mailing Address
-    Street Address 2
-    Permanent Mailing Address
-    Contact.Mailing Address
-    City
-    Permanent Mailing Address
-    Contact.Mailing City
-    State
-    Permanent Mailing Address
-    Contact.Mailing State
-    Postal Code
-    Permanent Mailing Address
-    Contact.Mailing Postal Code
-    Country
-    Permanent Mailing Address
-    Contact.Mailing Country
-    Email
-    Preferred Mailing Address
-    Contact.Email
+CAS Field   |   CAS Group   |   Salesforce Object and Field
+------------|-------|--------
+Street Address 1	|	Permanent Mailing Address	|	Contact.Mailing Address	
+Street Address 2	|	Permanent Mailing Address	|	Contact.Mailing Address	
+City	|	Permanent Mailing Address	|	Contact.Mailing City	
+State	|	Permanent Mailing Address	|	Contact.Mailing State	
+Postal Code	|	Permanent Mailing Address	|	Contact.Mailing Postal Code	
+Country	|	Permanent Mailing Address	|	Contact.Mailing Country	
+Email	|	Preferred Mailing Address	|	Contact.Email
 
 Designation required fields
 :   CAS Field
