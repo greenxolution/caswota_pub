@@ -120,17 +120,10 @@ Country	|	Permanent Mailing Address	|	Contact.Mailing Country
 Email	|	Preferred Mailing Address	|	Contact.Email
 
 Designation required fields
-:   CAS Field
-    CAS Group
-    Salesforce Object and Field
-    Program ID (for WebAdMIT API)
-    Designation
-    Opportunity.Name
-    The Opportunity name is concated from Applicant and Program Name.
-    The Program name is taken througt the API.
-    Local Status
-    Designation
-    Opportunity.CAS Application Status
+CAS Field	|	CAS Group	|	Salesforce Object and Field	
+------------|-------|--------
+Program ID (for WebAdMIT API)	|	Designation	|	Opportunity.Name. The Opportunity name is concated from Applicant and Program Name. The Program name is taken througt the API.	|	
+Local Status	|	Designation	|	Opportunity.CAS Application Status
 
 #### Attention! {.alert-heading}
 
