@@ -80,10 +80,10 @@ Preparing the Export File
     Here we're going to learn what required fields must be included and
     the format and permissions for the export file.
 
-Export File Configuration
+**Export File Configuration**
 :   The configuration file allows be reading by CASWOTA
 
-    ![CASWOTA, export file](sources/export_file1.png)
+    ![CASWOTA, export file](https://github.com/greenxolutions/caswota_pub/blob/master/caswota_config.png)
 
 Field   | Value |   Recommendation
 ------------|-------|--------
