@@ -3,6 +3,8 @@
 
 [Free installation at here](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t3i000002ikjJAAQ)
 
+[Video](https://www.youtube.com/watch?v=DmQ5XpXN3IQ&feature=emb_logo)
+
 Installation Key: CASWOTA2020
 
 ## Description
