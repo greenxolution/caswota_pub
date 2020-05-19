@@ -12,6 +12,7 @@ CASWOTA is an unmanaged Salesforce package developed to assist the institution t
 Connected through Liaison's WebAdMIT API, CASWOTA allows you to automate admissions tasks in Salesforce. For example, you can associate applicant data from WebAdMIT with Salesforce entities such as Contact, Opportunities, etc.
 
 100% Native Salesforce app. You require Salesforce to access to CASWOTA. Salesforce is a CRM, it provides many advantages for the Education industry.
+[!Read more in the documentation](CASWOTA_Documentation.md)
 
 Now you can combine many cicles of applicant data in just one page. This helps you to create a performance report between previous cycles.
 
